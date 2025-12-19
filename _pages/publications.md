@@ -45,8 +45,6 @@ author_profile: true
     &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
   </li>
 
-Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach (with Paolo Brunori and Moris Triventi).
-
   <li>
     <strong>Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approachi</strong>
     (with Paolo Brunori and Moris Triventi).<br />
