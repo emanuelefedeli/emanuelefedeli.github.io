@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "working papers"
+title: "Working papers"
 permalink: /working-papers/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h2>Working papers – in review (second round)</h2><hr />
+<h2>In review (second round)</h2><hr />
 
 <ol>
   <li>
@@ -44,7 +44,7 @@ author_profile: true
   </li>
 </ol>
 
-<h2>Working papers – in review (first round)</h2><hr />
+<h2>In review (first round)</h2><hr />
 
 <ol>
   <li>
