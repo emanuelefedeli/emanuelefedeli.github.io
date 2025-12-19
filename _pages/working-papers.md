@@ -11,15 +11,16 @@ author_profile: true
 
 <ol>
   <li>
-    <em>Grading standards revisited</em>.<br />
-    Status: Submitted to <em>Quality & Quantity</em>.
-    <div style="margin: 0.8em 0;">
-  <img src="{{ site.baseurl }}/images/publications/grading.jpeg"
-       alt="Grading standards revisited"
-       style="max-width: 500px; width: 100%; border: 1px solid #ddd;" />
-</div>
+  <em>Grading standards revisited</em>.<br />
+  Status: Submitted to <em>Quality & Quantity</em>.
 
+  <div style="margin: 0.8em auto; text-align: center;">
+    <img src="{{ site.baseurl }}/images/publications/grading.jpeg"
+         alt="Grading standards revisited"
+         style="max-width: 350px; width: 100%; border: 1px solid #ddd;" />
+  </div>
   </li>
+
 
   <li>
     <em>Income inequality in Italy and Germany</em> (with Oana Garbasevschi, Andreas Peichl, and others).
