@@ -11,10 +11,11 @@ main:
   - title: "Publications"
     url: /pubs/
   - title: "Working papers"
-    url: /Working-papers/
+    url: /working-papers/
   - title: "Data & Code"
     url: /data-code/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /cv/
+
