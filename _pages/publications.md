@@ -44,6 +44,18 @@ author_profile: true
     <em>Rivista Italiana di Sociologia</em>, 2024.
     &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
   </li>
+
+Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach (with Paolo Brunori and Moris Triventi).
+
+  <li>
+    <strong>Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approachi</strong>
+    (with Paolo Brunori and Moris Triventi).<br />
+    <em>Social Indicator Research</em>, 2024.
+    &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
+  </li>
+
+
+  
 </ol>
 
 
