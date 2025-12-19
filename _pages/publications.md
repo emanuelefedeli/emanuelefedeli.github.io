@@ -42,3 +42,25 @@ author_profile: true
     &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
   </li>
 </ol>
+
+
+
+
+<h2>Books</h2><hr />
+
+<ol>
+  <li>
+    <em>Implicit dropout and peer effects</em>.<br />
+    Chapter 6 in <em>La scuola che legge sé stessa. Il valore dei dati e della ricerca educativa per l’analisi e il contrasto della dispersione scolastica</em>, 
+    edited by Veronica Mobilio. Il Mulino.
+  </li>
+
+  <li>
+    <em>Educational poverty across municipalities</em> (with Andrea Pietrolucci and Moris Triventi).<br />
+    Chapter 2 in <em>La scuola che legge sé stessa. Il valore dei dati e della ricerca educativa per l’analisi e il contrasto della dispersione scolastica</em>, 
+    edited by Veronica Mobilio. Il Mulino.
+  </li>
+</ol>
+
+
+
