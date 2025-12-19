@@ -14,7 +14,7 @@ author_profile: true
     <em>Grading standards revisited</em>.<br />
     Status: Submitted to <em>Quality & Quantity</em>.
     <div style="margin: 0.8em 0;">
-  <img src="{{ site.baseurl }}/images/publications/grading-standards.png"
+  <img src="{{ site.baseurl }}/images/publications/grading.png"
        alt="Grading standards revisited"
        style="max-width: 500px; width: 100%; border: 1px solid #ddd;" />
 </div>
