@@ -16,7 +16,7 @@ My research primarily aims to understand what happens inside classrooms, focusin
 </div>
 
 <div style="text-align: justify;">
-My works have been published in *Social Science Research*, *Journal of Ethnic and Migration Studies*, *European Societies*, and *Social Indicators Research*.
+My work has been published in <em>Social Science Research</em>, <em>Journal of Ethnic and Migration Studies</em>, <em>European Societies</em>, and <em>Social Indicators Research</em>.
 </div>
 
 <div style="text-align: justify;">
