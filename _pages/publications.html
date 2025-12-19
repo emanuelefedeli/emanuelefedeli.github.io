@@ -11,26 +11,34 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Journal articles</h2><hr />
 
+<ol>
+  <li>
+    <strong>Immigrant proportion and ethno-linguistic diversity in the classroom: consequences for children’s well-being, social integration, and academic competencies</strong>
+    (with Moris Triventi).<br />
+    <em>Journal of Ethnic and Migration Studies</em>, 2023.
+    &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
+  </li>
 
+  <li>
+    <strong>The effect of grading standards on educational competences in Italy</strong>
+    (with Ilaria Lievore and Moris Triventi).<br />
+    <em>Social Science Research</em>, 2024.
+    &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
+  </li>
 
+  <li>
+    <strong>Social inequalities in school track choice: The relative importance of primary, secondary and tertiary effects</strong>
+    (with Moris Triventi).<br />
+    <em>European Societies</em>, 2025.
+    &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
+  </li>
+
+  <li>
+    <strong>Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali</strong>
+    (with Sara Fiasconaro and Moris Triventi).<br />
+    <em>Rivista Italiana di Sociologia</em>, 2024.
+    &nbsp;<a href="LINK_PREPRINT">Pre-print</a>
+  </li>
+</ol>
