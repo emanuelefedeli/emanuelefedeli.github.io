@@ -1,1 +1,95 @@
+/* =========================
+   Pastel blue site theme
+   ========================= */
+
+/* Page background (outside the content area) */
+body {
+  background-color: #eef7fb;
+}
+
+/* Main containers */
+#main,
+.page,
+.initial-content {
+  background: transparent;
+}
+
+/* Content block */
+.page__content,
+.archive,
+.page__inner-wrap {
+  background-color: #ffffff;
+  border: 1px solid #d7e9f0;
+  border-radius: 10px;
+  padding: 1.2rem;
+}
+
+/* Sidebar block */
+.sidebar,
+.sidebar__right,
+.sidebar__left {
+  background-color: #ffffff;
+  border: 1px solid #d7e9f0;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+/* Masthead / top nav */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #e3f3f8;
+  border-bottom: 1px solid #cfe6ee;
+}
+
+/* Nav links */
+.greedy-nav a,
+.greedy-nav .visible-links a {
+  color: #234957;
+}
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: #2f6f80;
+}
+
+/* General links */
+a {
+  color: #2f7f93;
+}
+a:hover {
+  color: #1f5f70;
+}
+
+/* Titles / headings */
+.page__title,
+h1, h2, h3 {
+  color: #234957;
+}
+
+/* Buttons */
+.btn,
+.btn--primary {
+  background-color: #2f7f93;
+  border-color: #2f7f93;
+  color: #ffffff;
+}
+.btn:hover,
+.btn--primary:hover {
+  background-color: #1f5f70;
+  border-color: #1f5f70;
+  color: #ffffff;
+}
+
+/* Details summary (your abstract dropdown) */
+details summary {
+  color: #2f7f93;
+}
+details summary:hover {
+  color: #1f5f70;
+}
+
+/* Optional: softer horizontal rules */
+hr {
+  border-top: 1px solid #d7e9f0;
+}
 
