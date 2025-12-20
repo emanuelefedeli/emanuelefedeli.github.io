@@ -1,8 +1,32 @@
 /* =========================
-   Custom pastel blue theme
+   Pastel blue accents
    ========================= */
 
-/* Link */
+/* Navbar / header */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #eaf4f7 !important;
+  border-bottom: 1px solid #d4e6ec !important;
+}
+
+/* Menu links */
+.greedy-nav a,
+.greedy-nav .visible-links a {
+  color: #2f4f5f !important;
+}
+
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: #2f6f80 !important;
+}
+
+/* Active menu item underline (se presente) */
+.greedy-nav .active a {
+  border-bottom-color: #4a90a4 !important;
+}
+
+/* General links */
 a {
   color: #4a90a4;
 }
@@ -10,42 +34,20 @@ a:hover {
   color: #2f6f80;
 }
 
-/* Header / navbar */
-.site-header {
-  background-color: #eaf4f7;
-  border-bottom: 1px solid #d4e6ec;
-}
-
-/* Page title */
-.page__title {
-  color: #2f4f5f;
-}
-
-/* Section headers */
+/* Titles */
+.page__title,
 h1, h2, h3 {
   color: #2f4f5f;
 }
 
-/* Buttons / highlights */
-.btn {
-  background-color: #4a90a4;
-  border-color: #4a90a4;
+/* Buttons (Academic Pages usa spesso btn--primary) */
+.btn,
+.btn--primary {
+  background-color: #4a90a4 !important;
+  border-color: #4a90a4 !important;
 }
-.btn:hover {
-  background-color: #2f6f80;
-  border-color: #2f6f80;
+.btn:hover,
+.btn--primary:hover {
+  background-color: #2f6f80 !important;
+  border-color: #2f6f80 !important;
 }
-
-/* Details / summary (abstract toggle) */
-details summary {
-  color: #4a90a4;
-}
-details summary:hover {
-  color: #2f6f80;
-}
-
-/* Subtle background blocks */
-.page__content {
-  background-color: #ffffff;
-}
-
