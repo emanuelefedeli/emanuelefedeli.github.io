@@ -10,16 +10,31 @@ author_profile: true
 <h2>In review (second round)</h2><hr />
 
 <ol>
-  <li>
+<li>
   <em>Grading standards revisited</em>.<br />
   Status: Submitted to <em>Quality & Quantity</em>.
 
-  <div style="margin: 0.8em auto; text-align: center;">
-    <img src="{{ site.baseurl }}/images/publications/grading.jpeg"
-         alt="Grading standards revisited"
-         style="max-width: 350px; width: 100%; border: 1px solid #ddd;" />
-  </div>
-  </li>
+  <details style="margin-top: 0.6em;">
+    <summary style="cursor: pointer;">
+      Abstract (click to expand)
+    </summary>
+
+    <div style="display: grid; grid-template-columns: 320px 1fr; gap: 16px; margin-top: 0.8em; align-items: start;">
+      <div style="text-align: center;">
+        <img src="{{ site.baseurl }}/images/publications/grading.jpeg"
+             alt="Grading standards revisited"
+             style="max-width: 320px; width: 100%; border: 1px solid #ddd;" />
+      </div>
+
+      <div style="text-align: justify;">
+        <p style="margin-top: 0;">
+          QUI INCOLLA IL TUO ABSTRACT. Puoi scrivere 5–8 righe. Se vuoi, possiamo anche aggiungere 3 bullet con “Key findings”.
+        </p>
+      </div>
+    </div>
+  </details>
+</li>
+
 
 
   <li>
