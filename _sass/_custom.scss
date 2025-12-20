@@ -1,93 +1,100 @@
 /* =========================
-   Full pastel blue theme
+   Flat single-color pastel theme
    ========================= */
 
-/* Base page background */
-body {
-  background-color: #eef7fb;
+:root {
+  --pastel: #e6f3f8;   /* unico colore */
+  --text:   #234957;
+  --link:   #2f7f93;
+  --linkh:  #1f5f70;
 }
 
-/* Main wrappers */
+/* Everything background */
+html, body {
+  background: var(--pastel) !important;
+  color: var(--text);
+}
+
+/* Kill borders / shadows / dividers */
+* {
+  box-shadow: none !important;
+}
+hr {
+  display: none !important;
+}
+.page__content hr,
+.archive hr {
+  display: none !important;
+}
+
+/* Main wrappers and blocks */
 #main,
 .initial-content,
-.page {
-  background-color: #eef7fb;
-}
-
-/* Content area (NO white) */
+.page,
+.page__inner-wrap,
 .page__content,
 .archive,
-.page__inner-wrap {
-  background-color: #e6f3f8;
-  border: 1px solid #cfe6ee;
-  border-radius: 10px;
-  padding: 1.2rem;
-}
-
-/* Sidebar (same pastel tone) */
 .sidebar,
 .sidebar__right,
-.sidebar__left {
-  background-color: #e6f3f8;
-  border: 1px solid #cfe6ee;
-  border-radius: 10px;
-  padding: 1rem;
-}
-
-/* Masthead / navbar */
+.sidebar__left,
 .masthead,
 .masthead__inner-wrap,
-.greedy-nav {
-  background-color: #ddeff6;
-  border-bottom: 1px solid #c7e0ea;
+.greedy-nav,
+.page__hero,
+.page__hero--overlay,
+.page__footer {
+  background: var(--pastel) !important;
+  border: none !important;
+}
+
+/* Remove typical theme separators */
+.page__content,
+.archive,
+.sidebar,
+.masthead,
+.greedy-nav,
+.page__footer {
+  border: none !important;
+}
+
+/* Titles / headings */
+.page__title,
+h1, h2, h3 {
+  color: var(--text) !important;
+}
+
+/* Links */
+a {
+  color: var(--link) !important;
+}
+a:hover {
+  color: var(--linkh) !important;
+  text-decoration: underline;
 }
 
 /* Navigation links */
 .greedy-nav a,
 .greedy-nav .visible-links a {
-  color: #234957;
+  color: var(--text) !important;
 }
 .greedy-nav a:hover,
 .greedy-nav .visible-links a:hover {
-  color: #2f6f80;
-}
-
-/* General links */
-a {
-  color: #2f7f93;
-}
-a:hover {
-  color: #1f5f70;
-}
-
-/* Titles */
-.page__title,
-h1, h2, h3 {
-  color: #234957;
-}
-
-/* Abstract toggle */
-details summary {
-  color: #2f7f93;
-}
-details summary:hover {
-  color: #1f5f70;
+  color: var(--linkh) !important;
 }
 
 /* Buttons */
 .btn,
 .btn--primary {
-  background-color: #2f7f93;
-  border-color: #2f7f93;
-  color: #ffffff;
+  background-color: var(--link) !important;
+  border: none !important;
+  color: #ffffff !important;
 }
 .btn:hover,
 .btn--primary:hover {
-  background-color: #1f5f70;
-  border-color: #1f5f70;
+  background-color: var(--linkh) !important;
 }
 
-/* Horizontal rules */
-hr {
-  border-top: 1px solid #cfe6ee;
+/* Lists a bit cleaner */
+ol, ul {
+  margin-top: 0.4em;
 }
