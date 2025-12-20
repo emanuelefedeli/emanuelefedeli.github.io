@@ -1,0 +1,50 @@
+/* =========================
+   Custom pastel blue theme
+   ========================= */
+
+/* Link */
+a {
+  color: #4a90a4;
+}
+a:hover {
+  color: #2f6f80;
+}
+
+/* Header / navbar */
+.site-header {
+  background-color: #eaf4f7;
+  border-bottom: 1px solid #d4e6ec;
+}
+
+/* Page title */
+.page__title {
+  color: #2f4f5f;
+}
+
+/* Section headers */
+h1, h2, h3 {
+  color: #2f4f5f;
+}
+
+/* Buttons / highlights */
+.btn {
+  background-color: #4a90a4;
+  border-color: #4a90a4;
+}
+.btn:hover {
+  background-color: #2f6f80;
+  border-color: #2f6f80;
+}
+
+/* Details / summary (abstract toggle) */
+details summary {
+  color: #4a90a4;
+}
+details summary:hover {
+  color: #2f6f80;
+}
+
+/* Subtle background blocks */
+.page__content {
+  background-color: #ffffff;
+}
