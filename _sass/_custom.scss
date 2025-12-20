@@ -112,3 +112,19 @@ a:hover {
 ol, ul {
   margin-top: 0.4em;
 }
+
+/* Force pastel on all masthead/nav inner elements */
+.masthead * ,
+.masthead__inner-wrap * ,
+.greedy-nav * ,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links,
+.greedy-nav .hidden-links a,
+.greedy-nav .visible-links a,
+.masthead__menu,
+.masthead__menu-item,
+.masthead__menu-item a {
+  background: var(--pastel) !important;
+  border: none !important;
+}
+
