@@ -94,6 +94,20 @@ a:hover {
   background-color: var(--linkh) !important;
 }
 
+/* Remove the white/nav container look */
+.wrap,
+.masthead__inner-wrap .wrap,
+.greedy-nav .wrap {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Make the whole masthead area full-width pastel */
+.masthead {
+  background: var(--pastel) !important;
+}
+
+
 /* Lists a bit cleaner */
 ol, ul {
   margin-top: 0.4em;
