@@ -1,48 +1,48 @@
 /* =========================
-   Pastel blue site theme
+   Full pastel blue theme
    ========================= */
 
-/* Page background (outside the content area) */
+/* Base page background */
 body {
   background-color: #eef7fb;
 }
 
-/* Main containers */
+/* Main wrappers */
 #main,
-.page,
-.initial-content {
-  background: transparent;
+.initial-content,
+.page {
+  background-color: #eef7fb;
 }
 
-/* Content block */
+/* Content area (NO white) */
 .page__content,
 .archive,
 .page__inner-wrap {
-  background-color: #ffffff;
-  border: 1px solid #d7e9f0;
+  background-color: #e6f3f8;
+  border: 1px solid #cfe6ee;
   border-radius: 10px;
   padding: 1.2rem;
 }
 
-/* Sidebar block */
+/* Sidebar (same pastel tone) */
 .sidebar,
 .sidebar__right,
 .sidebar__left {
-  background-color: #ffffff;
-  border: 1px solid #d7e9f0;
+  background-color: #e6f3f8;
+  border: 1px solid #cfe6ee;
   border-radius: 10px;
   padding: 1rem;
 }
 
-/* Masthead / top nav */
+/* Masthead / navbar */
 .masthead,
 .masthead__inner-wrap,
 .greedy-nav {
-  background-color: #e3f3f8;
-  border-bottom: 1px solid #cfe6ee;
+  background-color: #ddeff6;
+  border-bottom: 1px solid #c7e0ea;
 }
 
-/* Nav links */
+/* Navigation links */
 .greedy-nav a,
 .greedy-nav .visible-links a {
   color: #234957;
@@ -60,10 +60,18 @@ a:hover {
   color: #1f5f70;
 }
 
-/* Titles / headings */
+/* Titles */
 .page__title,
 h1, h2, h3 {
   color: #234957;
+}
+
+/* Abstract toggle */
+details summary {
+  color: #2f7f93;
+}
+details summary:hover {
+  color: #1f5f70;
 }
 
 /* Buttons */
@@ -77,19 +85,9 @@ h1, h2, h3 {
 .btn--primary:hover {
   background-color: #1f5f70;
   border-color: #1f5f70;
-  color: #ffffff;
 }
 
-/* Details summary (your abstract dropdown) */
-details summary {
-  color: #2f7f93;
-}
-details summary:hover {
-  color: #1f5f70;
-}
-
-/* Optional: softer horizontal rules */
+/* Horizontal rules */
 hr {
-  border-top: 1px solid #d7e9f0;
+  border-top: 1px solid #cfe6ee;
 }
-
