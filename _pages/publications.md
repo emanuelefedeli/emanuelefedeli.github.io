@@ -8,12 +8,12 @@ redirect_from:
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on 
-    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-  </div>
-{% endif %}
+<div class="wordwrap">
+  You can also find my articles on 
+  <a href="https://scholar.google.com/citations?user=pS_XDH4AAAAJ&hl=it" target="_blank">
+    my Google Scholar profile
+  </a>.
+</div>
 
 {% include base_path %}
 
@@ -21,7 +21,10 @@ author_profile: true
 
 <ol>
   <li>
-    <strong>Immigrant proportion and ethno-linguistic diversity in the classroom: consequences for children’s well-being, social integration, and academic competencies</strong>
+    <strong>
+      Immigrant proportion and ethno-linguistic diversity in the classroom: 
+      consequences for children’s well-being, social integration, and academic competencies
+    </strong>
     (with Moris Triventi).<br />
     <em>Journal of Ethnic and Migration Studies</em>, 2023.<br />
     <a href="https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2199136" target="_blank">
@@ -30,7 +33,9 @@ author_profile: true
   </li>
 
   <li>
-    <strong>The effect of grading standards on educational competences in Italy</strong>
+    <strong>
+      The effect of grading standards on educational competences in Italy
+    </strong>
     (with Ilaria Lievore and Moris Triventi).<br />
     <em>Social Science Research</em>, 2024.<br />
     <a href="https://www.sciencedirect.com/science/article/pii/S0049089X24001078" target="_blank">
@@ -39,7 +44,9 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Social inequalities in school track choice: The relative importance of primary, secondary and tertiary effects</strong>
+    <strong>
+      Social inequalities in school track choice: The relative importance of primary, secondary and tertiary effects
+    </strong>
     (with Moris Triventi).<br />
     <em>European Societies</em>, 2025.<br />
     <a href="https://direct.mit.edu/euso/article/doi/10.1162/euso.a.35/131660/The-geography-of-social-background-inequalities-in" target="_blank">
@@ -48,7 +55,9 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali</strong>
+    <strong>
+      Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali
+    </strong>
     (with Sara Fiasconaro and Moris Triventi).<br />
     <em>Rivista Italiana di Sociologia</em>, 2024.<br />
     <a href="https://www-rivisteweb-it.pros2.lib.unimi.it/doi/10.1423/114160" target="_blank">
@@ -57,7 +66,9 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach</strong>
+    <strong>
+      Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach
+    </strong>
     (with Paolo Brunori and Moris Triventi).<br />
     <em>Social Indicators Research</em>, 2025.<br />
     <a href="https://link.springer.com/article/10.1007/s11205-025-03788-3" target="_blank">
