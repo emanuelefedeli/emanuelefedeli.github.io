@@ -17,8 +17,6 @@ VisitINPS Fellow (part-time)
 
 ## Research interests
 Social stratification; peer effects; classroom hierarchies; educational and health inequalities; early childhood; public policies and municipal expenditures.  
-Methodologically focused on administrative data and quasi-experimental designs.
-
 ---
 
 ## Employment history
