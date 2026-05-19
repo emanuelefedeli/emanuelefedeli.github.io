@@ -15,8 +15,6 @@ author_profile: true
   </a>.
 </div>
 
-{% include base_path %}
-
 <h2>Journal articles</h2><hr />
 
 <ol>
