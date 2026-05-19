@@ -25,7 +25,7 @@ author_profile: true
     (with Moris Triventi).<br />
     <em>Journal of Ethnic and Migration Studies</em>, 2023.<br />
     <a href="https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2199136" target="_blank">
-      Pre-print
+      Link
     </a>
   </li>
 
@@ -34,7 +34,7 @@ author_profile: true
     (with Ilaria Lievore and Moris Triventi).<br />
     <em>Social Science Research</em>, 2024.<br />
     <a href="https://www.sciencedirect.com/science/article/pii/S0049089X24001078" target="_blank">
-      Pre-print
+      Link
     </a>
   </li>
 
@@ -43,16 +43,16 @@ author_profile: true
     (with Moris Triventi).<br />
     <em>European Societies</em>, 2025.<br />
     <a href="https://direct.mit.edu/euso/article/doi/10.1162/euso.a.35/131660/The-geography-of-social-background-inequalities-in" target="_blank">
-      Pre-print
+      Link
     </a>
   </li>
 
   <li>
     <strong>Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali</strong>
     (with Sara Fiasconaro and Moris Triventi).<br />
-    <em>Rivista Italiana di Sociologia</em>, 2024.
+    <em>Rivista Italiana di Sociologia</em>, 2024.<br />
     <a href="https://www-rivisteweb-it.pros2.lib.unimi.it/doi/10.1423/114160" target="_blank">
-      Pre-print
+      Link
     </a>
   </li>
 
@@ -61,7 +61,7 @@ author_profile: true
     (with Paolo Brunori and Moris Triventi).<br />
     <em>Social Indicators Research</em>, 2025.<br />
     <a href="https://link.springer.com/article/10.1007/s11205-025-03788-3" target="_blank">
-      Pre-print
+      Link
     </a>
   </li>
 </ol>
