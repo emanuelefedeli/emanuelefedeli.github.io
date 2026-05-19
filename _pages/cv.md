@@ -51,23 +51,6 @@ Methodologically focused on administrative data and quasi-experimental designs.
 
 ---
 
-## Publications
-See the **Publications** section of this website or my  
-[Google Scholar profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ).
-
----
-
-## Working papers
-See the **Working papers** section of this website.
-
----
-
-## Teaching
-- **Quantitative Methods Lab**, University of Trento, 2018–2023 (30h/year)  
-- External training in data analysis (Excel / Google Sheets), 2020–2022  
-
----
-
 ## Data expertise
 - Administrative data: INVALSI, INPS, Italian Municipal Budgets  
 - Survey data: CILS4EU, ESS, TIMSS, PIRLS, PISA  
