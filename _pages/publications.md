@@ -51,6 +51,9 @@ author_profile: true
     <strong>Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali</strong>
     (with Sara Fiasconaro and Moris Triventi).<br />
     <em>Rivista Italiana di Sociologia</em>, 2024.
+    <a href="https://www-rivisteweb-it.pros2.lib.unimi.it/doi/10.1423/114160" target="_blank">
+      Pre-print
+    </a>
   </li>
 
   <li>
