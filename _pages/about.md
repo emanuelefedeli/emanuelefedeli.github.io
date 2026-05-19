@@ -11,14 +11,18 @@ redirect_from:
 
 <p>
 I’m a postdoctoral researcher at the 
-<a href="https://github.com/academicpages/academicpages.github.io">University of Milan</a>, 
+<a href="https://www.unimi.it/en" target="_blank">University of Milan</a>, 
 working full-time on the <strong>LEARN</strong> project and part-time at the EDULAB Center. 
 I obtained my PhD in Sociology from the Department of Sociology at the 
 <strong>University of Trento (UNITN)</strong>.
 </p>
 
 <p>
-My research primarily aims to understand what happens inside classrooms, focusing on the role of hierarchies, networks, and peer interactions in shaping students’ socio-emotional skills, academic achievement, educational choices, and health-related behaviors. In addition, I pursue a line of research examining how municipal-level public spending affects household outcomes, such as students’ academic performance and parents’ labor market outcomes. Methodologically, I rely on observational data drawn from administrative sources (e.g. INVALSI, INPS, municipal budgets), often exploiting quasi-experimental research designs.
+My research primarily aims to understand what happens inside classrooms, focusing on the role of hierarchies, networks, and peer interactions in shaping students’ socio-emotional skills, academic achievement, educational choices, and health-related behaviors.
+</p>
+
+<p>
+In addition, I pursue a line of research examining how municipal-level public spending affects household outcomes, such as students’ academic performance and parents’ labor market outcomes. Methodologically, I rely on observational data drawn from administrative sources (e.g. INVALSI, INPS, and municipal budgets), often exploiting quasi-experimental research designs.
 </p>
 
 <p>
@@ -32,7 +36,11 @@ and <em>Social Indicators Research</em>.
 <p>
 I am the Principal Investigator of the project 
 “Child Penalties and Public Childcare Shortages under Fiscal Austerity”, 
-funded by a VisitINPS fellowship. In the 2026–2027 biennium, I will serve as a member of the 
+funded by a VisitINPS fellowship.
+</p>
+
+<p>
+In the 2026–2027 biennium, I will serve as a member of the 
 Early Career Reviewer Board of <em>Social Science Research</em>.
 </p>
 
