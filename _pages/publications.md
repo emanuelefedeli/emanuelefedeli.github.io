@@ -79,7 +79,7 @@ author_profile: true
      Multicultural Schools and Second Language Proficiency: Does Classroom Linguistic Diversity Enhance English Competencies?
     </strong>
     (with Michael Zaslavsky and Moris Triventi .<br />
-    <em>Quality and Quantity</em>, 2024.<br />
+    <em>Journal of International Migration and Integration</em>, 2024.<br />
     <a href="https://link.springer.com/article/10.1007/s12134-025-01345-y" target="_blank">
       Link
     </a>
