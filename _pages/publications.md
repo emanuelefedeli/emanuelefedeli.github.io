@@ -65,6 +65,29 @@ author_profile: true
 
   <li>
     <strong>
+      Revisiting the geography of grading standards: Evidence from Italian provinces
+    </strong>
+    (Emanuele Fedeli).<br />
+    <em>Quality and Quantity</em>, 2024.<br />
+    <a href="https://link.springer.com/article/10.1007/s11135-026-02655-8" target="_blank">
+      Link
+    </a>
+  </li>
+
+  <li>
+    <strong>
+     Multicultural Schools and Second Language Proficiency: Does Classroom Linguistic Diversity Enhance English Competencies?
+    </strong>
+    (with Michael Zaslavsky and Moris Triventi .<br />
+    <em>Quality and Quantity</em>, 2024.<br />
+    <a href="https://link.springer.com/article/10.1007/s12134-025-01345-y" target="_blank">
+      Link
+    </a>
+  </li>
+  
+
+  <li>
+    <strong>
       Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach
     </strong>
     (with Paolo Brunori and Moris Triventi).<br />
