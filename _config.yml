@@ -30,7 +30,7 @@ author:
   googlescholar          : "https://scholar.google.com/citations?user=pS_XDH4AAAAJ&hl=it"
   inspire-hep            :
   impactstory            :
-  orcid                  : "https://orcid.org/"
+  orcid                  :
   semantic               :
   ssrn                   :
   pubmed                 :
@@ -42,13 +42,13 @@ author:
   bitbucket              :
   codepen                :
   dribbble               :
-  github                 : "emanuelefedeli"
+  github                 :
   kaggle                 :
   stackoverflow          :
 
   # Social media
   artstation             :
-  bluesky                : "fedeli88.bsky.social"
+  bluesky                :
   facebook               :
   flickr                 :
   foursquare             :
