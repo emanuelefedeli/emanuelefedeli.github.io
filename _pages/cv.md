@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+📄 [Download full CV (PDF)](/files/CV_Emanuele_Fedeli.pdf)
+
+---
+
 ## Current position
 **Postdoctoral Researcher**, University of Milan  
 Department of Social and Political Sciences – *LEARN Project*  
@@ -16,7 +20,8 @@ VisitINPS Fellow (part-time)
 ---
 
 ## Research interests
-Social stratification; peer effects; classroom hierarchies; educational and health inequalities; early childhood; public policies and municipal expenditures.  
+Social stratification; peer effects; classroom hierarchies; educational and health inequalities; early childhood; public policies and municipal expenditures.
+
 ---
 
 ## Employment history
@@ -75,4 +80,3 @@ Bachelor’s and Master’s theses supervision (University of Trento & Milan).
 ---
 
 *Last updated: December 2025*
-
