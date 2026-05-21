@@ -10,11 +10,11 @@ redirect_from:
 <div style="text-align: justify;">
 
 <p>
-I’m a postdoctoral researcher at the 
+I am a postdoctoral researcher at the 
 <a href="https://www.unimi.it/en" target="_blank">University of Milan</a>, 
 working full-time on the <strong>LEARN</strong> project and part-time at the EDULAB Center. 
-I obtained my PhD in Sociology from the Department of Sociology at the 
-<strong>University of Trento (UNITN)</strong>.
+I obtained my PhD in Sociology from the Department of Sociology and Social Research at the 
+<strong>University of Trento</strong>.
 </p>
 
 <p>
@@ -22,31 +22,29 @@ My research primarily aims to understand what happens inside classrooms, focusin
 </p>
 
 <p>
-In addition, I pursue a line of research examining how municipal-level public spending affects household outcomes, such as students’ academic performance and parents’ labor market outcomes. Methodologically, I rely on observational data drawn from administrative sources (e.g. INVALSI, INPS, and municipal budgets), often exploiting quasi-experimental research designs.
+In addition, I pursue a line of research examining how municipal-level public spending affects household outcomes, including students’ academic performance and parents’ labor market outcomes. Methodologically, I rely on observational data drawn from administrative sources (e.g., INVALSI, INPS, and municipal budgets), often exploiting quasi-experimental research designs.
 </p>
 
-<p>
-My work has been published in 
-<em>Social Science Research</em>, 
-<em>Journal of Ethnic and Migration Studies</em>, 
-<em>European Societies</em>, 
-and <em>Social Indicators Research</em>.
-</p>
+<h2>News</h2><hr />
 
-<p>
-I am the Principal Investigator of the project 
-“Child Penalties and Public Childcare Shortages under Fiscal Austerity”, 
-funded by a VisitINPS fellowship.
-</p>
+<ul>
+  <li>
+    Read our article on Neodemos: 
+    <a href="https://www.neodemos.info/2026/05/19/quanto-conta-la-famiglia-per-il-successo-scolastico-un-atlante-delle-disuguaglianze-educative-in-italia/" target="_blank">
+      “Quanto conta la famiglia per il successo scolastico? 
+      Un atlante delle disuguaglianze educative in Italia”
+    </a>.
+  </li>
 
-<p>
-In the 2026–2027 biennium, I will serve as a member of the 
-Early Career Reviewer Board of <em>Social Science Research</em>.
-</p>
+  <li>
+    Read our new working paper: 
+    <a href="/files/Child_Penalties_Public_Childcare_Shortages.pdf" target="_blank">
+      “Child Penalties and Public Childcare Shortages under Fiscal Austerity”
+    </a>.
+  </li>
+</ul>
 
-</div>
-
-<h2>Research fields</h2>
+<h2>Research fields</h2><hr />
 
 <ul>
   <li>Social stratification</li>
@@ -55,3 +53,5 @@ Early Career Reviewer Board of <em>Social Science Research</em>.
   <li>Municipal expenditures</li>
   <li>Electoral rules and political accountability</li>
 </ul>
+
+</div>
