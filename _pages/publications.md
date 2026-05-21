@@ -121,4 +121,25 @@ author_profile: true
     </em>, 
     edited by Veronica Mobilio. Il Mulino.
   </li>
+
+  <li>
+    <em>Education in Sardinia between Native and Migrant Students: A Territorial and Comparative Analysis</em>
+    [<em>Istruzione in Sardegna tra autoctoni e studenti migranti: un’analisi territoriale e comparativa</em>].<br />
+    In 
+    <em>3° Rapporto Sardegna e il Mediterraneo</em>, 
+    edited by Marco Calaresu, Michela Cordeddu, Patrizia Manduchi, Giovanni Sistu, Stefano Usai. 
+    ISPROM – Istituto di Studi e Programmi per il Mediterraneo, 2025.<br />
+    ISBN: 978-88-3312-199-4 – e-ISBN: 978-88-3312-198-7
+  </li>
+
+  <li>
+    <em>A descriptive assessment of grading standards across schools</em>.<br />
+    Chapter 6 in 
+    <em>
+      Students: Inequalities and Inclusion – VIII Seminar INVALSI Data: 
+      A Tool for Teaching and Scientific Research
+    </em>, 
+    edited by Patrizia Falzetti. 2026.<br />
+    ISBN: 9788835180791 – e-ISBN Open Access: 9788835184676
+  </li>
 </ol>
