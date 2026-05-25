@@ -96,6 +96,30 @@ author_profile: true
       Link
     </a>
   </li>
+
+<li>
+  <strong>
+    Why do girls receive better grades in school? The role of students’ competencies, personality traits, school-related attitudes, and behaviour.
+  </strong>
+  (with Moris Triventi, Ilaria Lievore, and Mona Dian).<br />
+  <em>Oxford Review of Education</em>, Forthcoming, 2025.
+</li>
+
+<li>
+  <strong>
+    Infrastructures and Mortality in Italy at the End of the 19th Century.
+  </strong>
+  (with Giulia Corti).<br />
+  <em>Historical Longitudinal Studies</em>, Forthcoming, 2025.
+</li>
+
+<li>
+  <strong>
+    Inequality of Educational Opportunities by Social Background: Geographical Variations and Contextual Drivers in Italy.
+  </strong>
+  (with Moris Triventi, Andrea Pietrolucci, and Nathalie Vigna).<br />
+  <em>European Sociological Review</em>, Conditionally Accepted, 2025.
+</li>
 </ol>
 
 <h2>Books</h2><hr />
