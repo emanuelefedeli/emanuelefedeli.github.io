@@ -107,7 +107,7 @@ You can also find my articles on
 
 <li>
   <strong>
-    Infrastructures and Mortality in Italy at the End of the 19th Century.
+    Mapping the Roots of Healthcare Inequalities in Post-Unification Italy: Geographical Accessibility and Territorial Disparities.
   </strong>
   (with Giulia Corti).<br />
   <em>Historical Life Course Studies</em>, Forthcoming, 2026.
