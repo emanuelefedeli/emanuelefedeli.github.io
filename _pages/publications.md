@@ -57,7 +57,7 @@ You can also find my articles on
       Le disuguaglianze territoriali in Italia. Un'analisi delle differenze economiche, demografiche e socio-culturali tra Aree Interne e Centrali
     </strong>
     (with Sara Fiasconaro and Moris Triventi).<br />
-    <em>Rivista Italiana di Sociologia</em>, 2024.<br />
+    <em>Rivista Italiana di Sociologia</em>, 2025.<br />
     <a href="https://www-rivisteweb-it.pros2.lib.unimi.it/doi/10.1423/114160" target="_blank">
       Link
     </a>
@@ -68,7 +68,7 @@ You can also find my articles on
       Revisiting the geography of grading standards: Evidence from Italian provinces
     </strong>
     (Emanuele Fedeli).<br />
-    <em>Quality and Quantity</em>, 2024.<br />
+    <em>Quality and Quantity</em>, 2026.<br />
     <a href="https://link.springer.com/article/10.1007/s11135-026-02655-8" target="_blank">
       Link
     </a>
@@ -79,7 +79,7 @@ You can also find my articles on
      Multicultural Schools and Second Language Proficiency: Does Classroom Linguistic Diversity Enhance English Competencies?
     </strong>
     (with Michael Zaslavsky and Moris Triventi).<br />
-    <em>Journal of International Migration and Integration</em>, 2024.<br />
+    <em>Journal of International Migration and Integration</em>, 2026.<br />
     <a href="https://link.springer.com/article/10.1007/s12134-025-01345-y" target="_blank">
       Link
     </a>
@@ -91,7 +91,7 @@ You can also find my articles on
       Mapping inequality of educational opportunity in Italy across micro-areas: a machine learning approach
     </strong>
     (with Paolo Brunori and Moris Triventi).<br />
-    <em>Social Indicators Research</em>, 2025.<br />
+    <em>Social Indicators Research</em>, 2026.<br />
     <a href="https://link.springer.com/article/10.1007/s11205-025-03788-3" target="_blank">
       Link
     </a>
