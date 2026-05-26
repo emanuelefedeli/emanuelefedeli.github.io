@@ -9,9 +9,9 @@ author_profile: true
 ---
 
 <div class="wordwrap">
-  You can also find my articles on 
+You can also find my articles on 
   <a href="https://scholar.google.com/citations?user=pS_XDH4AAAAJ&hl=it" target="_blank">
-    my Google Scholar profile
+  my Google Scholar profile
   </a>.
 </div>
 
