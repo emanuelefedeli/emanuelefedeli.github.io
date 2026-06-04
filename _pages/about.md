@@ -18,7 +18,7 @@ I obtained my PhD in Sociology from the Department of Sociology and Social Resea
 </p>
 
 <p>
-My research primarily aims to understand what happens inside classrooms, focusing on the role of hierarchies, networks, and peer interactions in shaping students’ socio-emotional skills, academic achievement, educational choices, and health-related behaviors.
+My research primarily focuses on the role of hierarchies, networks, and peer interactions in shaping students’ socio-emotional skills, academic achievement, educational choices, and health-related behaviors.
 </p>
 
 <p>
