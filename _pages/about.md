@@ -28,21 +28,18 @@ In addition, I pursue a line of research examining how municipal-level public sp
 <h2>News</h2><hr />
 
 <ul>
-  <li>
-    Read our article on Neodemos: 
-    <a href="https://www.neodemos.info/2026/05/19/quanto-conta-la-famiglia-per-il-successo-scolastico-un-atlante-delle-disuguaglianze-educative-in-italia/" target="_blank">
-      “Quanto conta la famiglia per il successo scolastico? 
-      Un atlante delle disuguaglianze educative in Italia”
-    </a>.
-  </li>
-
-  <li>
-    If you prefer an audio summary, listen to a 10-minute discussion on
-    <a href="https://www.raiplaysound.it/audio/2026/05/Fahrenheit-del-25052026-d53d8b91-d74d-461b-b631-8577d5e3c11d.html" target="_blank">
-      Fahrenheit (Rai Radio 3)
-    </a>,
-    where Paolo Brunori presents and discusses the main findings of the article.
-  </li>
+<li>
+  Read our article on Neodemos: 
+  <a href="https://www.neodemos.info/2026/05/19/quanto-conta-la-famiglia-per-il-successo-scolastico-un-atlante-delle-disuguaglianze-educative-in-italia/" target="_blank">
+    “Quanto conta la famiglia per il successo scolastico? 
+    Un atlante delle disuguaglianze educative in Italia”
+  </a>.
+  If you prefer an audio summary, listen to a 10-minute discussion on
+  <a href="https://www.raiplaysound.it/audio/2026/05/Fahrenheit-del-25052026-d53d8b91-d74d-461b-b631-8577d5e3c11d.html" target="_blank">
+    Fahrenheit (Rai Radio 3)
+  </a>,
+  where Paolo Brunori presents the article's main findings.
+</li>
 
   <li>
     Read our new working paper: 
